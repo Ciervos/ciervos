@@ -18,12 +18,15 @@ Hice una carrera de dos años de chocolatier y sommelier
 ##### Hobbies
 
 🎮 Videojuegos, anime y series.
+
 🧑‍🍳 Cocina, especialmente chocolates
+
 🧸 Artesanias varias 
 
 #### **Sobre mi github**
 
 🌱 Actualmente estoy ... haciendo un clon de spotify con react y redux
+
 💠 Próximo en mente ... una web portfolio para poder mostrar mis trabajos de mejor manera
 
 
