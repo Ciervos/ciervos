@@ -25,9 +25,9 @@ Hice una carrera de dos años de chocolatier y sommelier
 
 #### **Sobre mi github**
 
-🌱 Actualmente estoy ... trabajando en portfolio y refactorización de anteriores proyectos
+🌱 Actualmente estoy ... Estudiando React Native y Unreal Engine
 
-🏆  Último terminado ... Clon de spotify usando React + Redux (https://musikittp.vercel.app/)
+
 
 
 <!--
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+🏆  Último terminado ... Clon de spotify usando React + Redux (https://musikittp.vercel.app/)
 --
 💠 Próximo en mente ... 
 -->
